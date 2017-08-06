@@ -1,0 +1,58 @@
+
+body{
+    background-color: darkslategrey;
+
+}
+.weather_data
+{
+    text-align: center;
+    box-shadow: lightgrey;
+    color:black;
+    font-size: 30px;
+    padding: 20px 30px 20px 30px ;
+}
+.mainBox{
+    background-color: slategrey;
+    /*height: 500px;*/
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px 20px 20px 20px;
+
+}
+
+.icon{
+
+    color: black;
+    font-size: 100px;
+    padding-top: 30px;
+}
+.btn_color{
+    background-color: grey;
+}
+.btn:hover{
+    background-color: darkslategrey;
+}
+.faren{
+    font-size: 30px;
+    color: black;
+}
+.icon_sum{
+    padding: 30px 10px 30px 10px;
+    font-size: 15px;
+    font-style: italic;
+}
+
+/*figure {*/
+    /*margin: 3em auto;*/
+    /*width: 368px;*/
+    /*height: 152px;*/
+/*}*/
+/*canvas {*/
+    /*display: block;*/
+    /*float: left;*/
+    /*margin-left: 8px;*/
+    /*margin-top: 8px;*/
+/*}*/
+
